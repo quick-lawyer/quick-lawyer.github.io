@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>Colombia</title>
+</head>
+
+
+<body>
+<table border>
+<tr>
+<th> Bandera </th>
+<th> Audio </th>
+<th> Escudo</th>
+</tr>
+<tr>
+<td> Los colores de labandera de colombia<br><font color=yellow>
+    simbolizan la riqueza del suelo(amarillo)<br><font color=blue>
+    los oceanos y rios (azul)<br><font color=red>
+    y la sangre derramada por la independencia(rojo)<br><font color=yellow>
+    la franja amarilla representa la riqueza natural, la soberania, la armonia y la justicia;<br><font color=blue>
+    el azul simboliza los oceanos pacifio y caribe y la conexion con el mundo<br><font color=red>
+    y el rojo conmemora la sangre derramada por los patriotas y tambien el amor, poder y la fuerza
+</td>
+<td> <audio src="HimnoColombia.mp3" controls=""></audio></td>
+<td><img src="https://lh3.googleusercontent.com/drive-storage/AJQWtBOW9ejPo4q4bPVWHOWc4lwJPKt2gZomv2JQCGKED7QXHMr_TUJ5d2YWxnaVBLlv_P8LR0rjOX4w_1X9l2cRp8WvtwJXaSzND5PqSmLrJOOwdg=w1024-h633?auditContext=forDisplay" alt="Escudo de colombia" width=140 height=140></td>
+</tr>
+
+</table>
+
+</body>
+
+</html>
