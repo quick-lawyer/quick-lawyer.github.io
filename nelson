@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>Nelson Mandela</title>
+    </head>
+    
+    <body>
+        <h1><center>NELSON MANDELA</center></h1>
+        
+        <a href="index.html">Clic aqui para ir al inicio</a> 
+        
+        <table border>
+            <tr>
+                <th>Imagen</th>
+                <th>Datos</th>
+            </tr>
+            
+            <tr>
+                <td>
+                    <img src="https://n9.cl/49xqp" alt="Nelson Mandela"/>
+                </td>
+                
+                <td>
+                    Nelson Mandela <br> Abogado y Activista <br> 18 de Julio 1918
+                </td>
+            </tr>
+            
+        </table>
+    </body>
+</html>
