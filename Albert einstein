@@ -1,0 +1,28 @@
+html>
+    <head>
+        <title>Albert Einstein</title>
+    </head>
+    
+    <body>
+        <h1><center>ALBERT EINSTEIN</center></h1>
+        
+        <a href="index.html">Clic aqui para ir al inicio</a> 
+        
+        <table border>
+            <tr>
+                <th>Imagen</th>
+                <th>Datos</th>
+            </tr>
+            
+            <tr>
+                <td>
+                    <img src="https://n9.cl/zll4e" alt="esto es una imagen de Albert"/>
+                </td>
+                
+                <td>
+                    Albert Einstein <br> Fisico y Matematico <br> 14 de Marzo 1879 <br>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
