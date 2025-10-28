@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>Eva Perón</title>
+    </head>
+    
+    <body>
+        <h1><center>MARIA EVA DUARTE</center></h1>
+        
+        <a href="index.html">Clic aqui para ir al inicio</a> 
+        
+        <table border>
+            <tr>
+                <th>Imagen</th>
+                <th>Datos</th>
+            </tr>
+            
+            <tr>
+                <td>
+                    <img src="https://n9.cl/g5qo8z" alt="Evita" height="200" width="200"/>
+                </td>
+                
+                <td>
+                    Eva Peron <br> Politica y Actriz argentina <br> 7 de Mayo 1919
+                </td>
+            </tr>
+            
+        </table>
+    </body>
+</html>
